@@ -72,7 +72,7 @@ class Container
             isset($value[$current_index]) &&
             is_array($value[$current_index]) &&
             count($value[$current_index])) {
-            return $this->_getValue($index, $value[$current_index]);
+            return $this->getValue($index, $value[$current_index]);
         } elseif (isset($value[$current_index])) {
             return $value[$current_index];
         } else {
