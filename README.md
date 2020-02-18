@@ -1,2 +1,5 @@
-# php-di
-PHP dependency injection container
+# PHP DI
+
+PHP dependency injection container.
+
+! FOR LEARNING/DEVLOPMENT PURPOSES ONLY !
